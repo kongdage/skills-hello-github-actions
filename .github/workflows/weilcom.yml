@@ -1,0 +1,6 @@
+name: Post welcom comment
+on:
+  pull_request:
+    types: [opended]
+permissions:
+  pull-requests:write
