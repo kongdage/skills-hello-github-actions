@@ -5,6 +5,7 @@
 _Create and run a GitHub Actions workflow._
 
 </header>
+![1DC8B2E9](https://github.com/kongdage/skills-hello-github-actions/assets/76779309/1772bf2e-2cb2-43f4-a93a-4ddc5b5c3b50)
 
 ## Step 4: Merge your workflow file
 
